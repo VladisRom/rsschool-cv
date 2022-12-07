@@ -3,8 +3,11 @@
 ## **Contacts**
 
 **Location:** Luninets, Belarus
+
 **Phone:** +375 29 9432184
+
 **Email:** vladromanovich.pc@gmail.com
+
 **GitHub:** VladisRom
 
 ## **About Me**
@@ -14,8 +17,11 @@ I am kind and calm, but nevertheless I love jokes and laughter. I am reliable an
 ## **Skills**
 
 HTML(Basic)
+
 CSS(Basic)
+
 JavaScript (Basic)
+
 Git(Basic)
 
 ## **Code Example**
@@ -40,8 +46,11 @@ No ;(
 **Courses:**
 
 [HTML Codeacademy](https://www.codecademy.com/resources/docs/html)
+
 [CSS Codeacademy](https://www.codecademy.com/resources/docs/css)
+
 [JavaScript Codeacademy](https://www.codecademy.com/resources/docs/javascript)
+
 
 ## **English**
 
