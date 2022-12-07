@@ -36,7 +36,9 @@ No ;(
 ## **Education**
 
 **University:** Polessky state university, economist
+
 **Courses:**
+
 [HTML Codeacademy](https://www.codecademy.com/resources/docs/html)
 [CSS Codeacademy](https://www.codecademy.com/resources/docs/css)
 [JavaScript Codeacademy](https://www.codecademy.com/resources/docs/javascript)
