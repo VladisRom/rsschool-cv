@@ -1,3 +1,127 @@
-html {
-    background-color: green;
+.head-container-photo img{
+    border-radius: 6% 6% 6% 6%;
+    width: 300px;
+    height: 310px;
+ }
+
+ .head-container-photo{
+    width: 300px;
+    height: 310px;
+    position: relative;
+ }
+
+body {
+    background-color: rgba(245, 245, 245, 0.596);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+   
 }
+* {
+    box-sizing: border-box;
+  }
+
+  .container-right-side {
+  
+    display: flex;
+    flex-wrap: wrap;   
+    position: relative;
+    left: 390px;
+    bottom: 300px;
+    width: 400px;
+    height: auto;
+    
+
+  }
+  .myname {
+  
+    width: 340px;
+    height: 90px;
+    position: relative;
+    left: 390px;
+    bottom: 300px;
+
+  }
+
+ 
+
+  .container-contacts-footer {
+   
+    width: 900px;
+    height: 150px;
+  }
+
+  .container-contact-items {
+    align-items: center;  
+    letter-spacing: 1px; 
+  }
+
+  .container-contacts-links {
+
+    width: 500px;
+    height: 200px;
+    position: relative;
+    left: 1350px;
+    bottom: 480px;
+  }
+
+   .nav-list {
+    list-style: none;
+    align-items: center;  
+    letter-spacing: 1px;   
+  }
+  
+  html {
+    scroll-behavior: smooth; 
+  }
+  .container-about-me {
+
+    width: 900px;
+    height: 270px;
+    position: relative;
+    left: 10px;
+    bottom: 350px;
+  }
+  li {
+    list-style: none;
+  }
+
+  .container-experience {
+  
+    width: 900px;
+    height: 240px;
+    position: relative;
+    left: 10px;
+    bottom: 350px;
+
+  }
+
+.rs-logo {
+ 
+    width: 150px;
+    height: 70px;
+    position: absolute;
+    left: 1700px;
+    bottom: -10px;
+}
+
+.rs-logo img{
+  width: 100px;
+  height: 50px;
+}
+
+img {
+  width: 45px;
+  height: 45px; 
+}
+
